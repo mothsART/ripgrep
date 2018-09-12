@@ -1,0 +1,5 @@
+ripgrep (0.10.0.3) cosmic; urgency=medium
+
+  * Initial release
+
+ -- Jérémie Ferry <jerem.ferry@gmail.com>  Mon, 10 Sep 2018 23:47:01 -0100

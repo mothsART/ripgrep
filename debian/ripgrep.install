@@ -1,0 +1,10 @@
+target/release/rg           usr/bin
+
+complete/rg.bash            usr/share/bash-completion/completions
+complete/rg.fish            usr/share/fish/completions
+complete/_rg                usr/share/zsh/vendor-completions
+
+README.md                   usr/share/doc/ripgrep
+
+debian/LICENSE-MIT          usr/share/doc/rigrep
+debian/UNLICENSE            usr/share/doc/ripgrep
